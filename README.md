@@ -1,5 +1,6 @@
-# Path-Planning-Project-AI
-Path Planner using Udacity's Self-Driving Car Simulator.
+# Path-Planner Project
+Path Planner using Udacity's Car Simulator offered in Self-Driving-Car Nanodegree.
+
 
 ![alt text](video.gif)
 
