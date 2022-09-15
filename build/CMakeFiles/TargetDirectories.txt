@@ -1,3 +1,0 @@
-/mnt/d/All Folders/All Courses/Senior 1/Term 2/Articial Intelligence/Path Planning Project/AI Project/Path Planner/build/CMakeFiles/rebuild_cache.dir
-/mnt/d/All Folders/All Courses/Senior 1/Term 2/Articial Intelligence/Path Planning Project/AI Project/Path Planner/build/CMakeFiles/edit_cache.dir
-/mnt/d/All Folders/All Courses/Senior 1/Term 2/Articial Intelligence/Path Planning Project/AI Project/Path Planner/build/CMakeFiles/path_planning.dir
